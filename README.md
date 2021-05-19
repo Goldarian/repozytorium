@@ -1,1 +1,1 @@
-# repozytorium
+simple Makefile
